@@ -25,6 +25,7 @@ describe 'license meta' do
         legacy = [
           'uh'
           'DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD'
+          'super les amis'
           'afl-3.0',
           'artistic-2.0',
           'bsd-3-clause-clear',
